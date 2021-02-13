@@ -8,4 +8,25 @@ The mineways-importer is a Python script designed to run in Blender after import
 
 ## How to use
 
-You simply need to import the .obj of your Mineways export in a fresh blend file and load (or copy and paste) the script to your Blender scripting tab and press run. When toggling the system console you can see the output.
+__Step 1__<br />
+Import the .obj file of your Mineways export in a new blend file.
+<!-- ![Screenshot of object import in Blender](screenshots/object_import.jpg?raw=true "Object Import") -->
+<br />
+
+__Step 2__<br />
+Switch to the scripting tab of Blender.
+<!-- ![Screenshot of scripting tab in Blender](screenshots/scripting_tab.jpg?raw=true "Switch to Scripting Tab") -->
+<br />
+
+__Step 3__<br />
+Open the mineways_importer.py script or create a new text file and paste the script inside it.
+<!-- ![Screenshot of loading the script in Blender](screenshots/scripting_tab.jpg?raw=true "Load the Script") -->
+<br />
+
+__Step 4__<br />
+Run the script
+Press run to execute the program and fix the materials automatically. You're done!
+<!-- ![Screenshot of executing the script in Blender](screenshots/scripting_tab.jpg?raw=true "Load the Script") -->
+<br />
+
+_Info: Toggle the system console to see the output._
