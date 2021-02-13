@@ -1,6 +1,6 @@
 # mineways-importer
 
-The mineways-importer is a Python script designed to run in Blender after importing a 3D Minecraft world from [Mineways](https://github.com/erich666/Mineways "Mineways on Github") and fix all the materials and textures automatically. When running the script Blender will
+The mineways-importer is a Python script designed to run in Blender 2.91 after importing a 3D Minecraft world from [Mineways](https://github.com/erich666/Mineways "Mineways on Github") and fix all the materials and textures automatically. When running the script Blender will
 * fix blurry textures
 * set default specular for all materials
 * set default roughness for all materials
@@ -19,13 +19,13 @@ Switch to the scripting tab of Blender.
 <br />
 
 __Step 3__<br />
-Open the mineways_importer.py script or create a new text file and paste the script inside it.
+Open the [mineways_importer.py](mineways_importer.py) script or create a new text file and paste the contents of the script inside it.
 <!-- ![Screenshot of loading the script in Blender](screenshots/scripting_tab.jpg?raw=true "Load the Script") -->
 <br />
 
 __Step 4__<br />
 Run the script
-Press run to execute the program and fix the materials automatically. You're done!
+Press run to execute the program and fix the materials automatically. Done!
 <!-- ![Screenshot of executing the script in Blender](screenshots/scripting_tab.jpg?raw=true "Load the Script") -->
 <br />
 
