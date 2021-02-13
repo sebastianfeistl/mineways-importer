@@ -6,6 +6,17 @@ The mineways-importer is a Python script designed to run in Blender 2.91 after i
 * set default roughness for all materials
 * create a bump node for every material (optional)
 
+## Example
+
+__Before__<br />
+![Screenshot of scene before running script](screenshots/before.PNG?raw=true "Before")
+<br />
+
+__After__<br />
+![Screenshot of scene after running script](screenshots/after.PNG?raw=true "After")
+<br />
+
+
 ## How to use
 
 __Step 1__<br />
